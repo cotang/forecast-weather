@@ -1,7 +1,7 @@
 Project of widget that receives current weather/forecast data from [Openweathermap API](https://openweathermap.org/api)
 
 Visual presentation of how the widget works
-![weather-forecast](https://cotang.github.com/forecast-weather/master/video.gif)
+![weather-forecast](https://raw.githubusercontent.com/cotang/forecast-weather/master/video.gif)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
