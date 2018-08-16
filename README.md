@@ -4,6 +4,8 @@ Visual presentation of how the widget works
 
 ![weather-forecast](https://raw.githubusercontent.com/cotang/forecast-weather/master/video.gif)
 
+[Demo on heroku](https://cotang-weather.herokuapp.com/)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
